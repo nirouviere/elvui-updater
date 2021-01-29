@@ -15,7 +15,7 @@ This is a PowerShell script I created to automatically update Elvui. it will
 
 # How To
 
-Update the `WowAddonsDir` variable at the beginning of the script with your wow Addons path (e.g: `"D:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns"`)
+Replace the `<PATH TO YOUR WOW ADDON FILE>` variable at the beginning of the script with your wow Addons path (e.g: `"D:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns"`)
 
 
 ```Powershell
