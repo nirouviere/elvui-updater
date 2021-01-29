@@ -6,7 +6,7 @@ $ELVUI_DATA = @{
     ZipPrefix       = "elvui-"
     TempDir         = "C:\Windows\Temp"
     VersionPage     = "https://www.tukui.org/download.php?ui=elvui"
-    WoWAddonsDir    = "D:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns"
+    WoWAddonsDir    = "<PATH TO YOUR WOW ADDON FILE>"
     TocFilePath     = ""
     ArchiveName     = ""
     ArchivePath     = ""
