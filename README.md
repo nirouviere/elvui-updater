@@ -35,5 +35,5 @@ $ELVUI_DATA = @{
 
 You can then run the script, (right click, or through the CLI).
 
-You might need to bypass powershell's exectuion policy
+You might need to bypass powershell's execution policy
 
